@@ -16,7 +16,8 @@
 .produtos .produto__descricao { /* elemento */
   color: gray;
 }
-.produtos .produto__destaque { /* modificador */
+
+.c-produto__destaque { /* modificador */
   border: 2px solid gold;
   padding: 8px;
   background-color: #ffff42;
